@@ -13,7 +13,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 [🍭  效果](#--效果)
 
-[🎁  事前准备](#--事前准备)
+[🎁  事前准备](#--事前准备d)
 
 [📪  配置发信邮箱](#--配置发信邮箱)
 
